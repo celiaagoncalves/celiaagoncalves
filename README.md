@@ -44,4 +44,4 @@
 ### Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Célia%20Gonçalves-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celiagoncalves)
-[![Portfolio](https://img.shields.io/badge/Portfolio-celiaagoncalves.github.io-7c3aed?style=flat-square)](https://celiaagoncalves.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-celiaagoncalves.github.io-7c3aed?style=flat-square)](https://celiaagoncalves.github.io/)
