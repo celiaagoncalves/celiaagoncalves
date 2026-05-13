@@ -17,21 +17,21 @@
 
 **Quality & Testing**
 
-![ISTQB](https://img.shields.io/badge/ISTQB%C2%AE-Certified-7c3aed?style=flat-square)
-![Test Management](https://img.shields.io/badge/Test%20Management-7c3aed?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-7c3aed?style=flat-square)
+<img src="https://img.shields.io/badge/ISTQB%C2%AE-Certified-7c3aed?style=flat-square" alt="ISTQB Certified" />
+<img src="https://img.shields.io/badge/Test%20Management-7c3aed?style=flat-square" alt="Test Management" />
+<img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-7c3aed?style=flat-square" alt="Agile / Scrum" />
 
 **Product**
 
-![Product Ownership](https://img.shields.io/badge/Product%20Ownership-4f46e5?style=flat-square)
-![Backlog Management](https://img.shields.io/badge/Backlog%20Management-4f46e5?style=flat-square)
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-4f46e5?style=flat-square)
+<img src="https://img.shields.io/badge/Product%20Ownership-4f46e5?style=flat-square" alt="Product Ownership" />
+<img src="https://img.shields.io/badge/Backlog%20Management-4f46e5?style=flat-square" alt="Backlog Management" />
+<img src="https://img.shields.io/badge/Stakeholder%20Management-4f46e5?style=flat-square" alt="Stakeholder Management" />
 
 **Tools & Platforms**
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 ---
 
